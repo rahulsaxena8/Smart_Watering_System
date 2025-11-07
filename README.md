@@ -23,6 +23,6 @@ Designed System:
 Screenshot from ThingSpeak:
 
 <p align="center">
-  <img src="Circuit_Image (2).jpg" width="800"/>
+  <img src="Thingspeak_screenshot.jpg" width="800"/>
 <\p>
 
