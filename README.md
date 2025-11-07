@@ -13,3 +13,9 @@ It in turn orders the servo motor to sweep which is connected to water jug.It re
 After the threshold value is reached the motor comes to it's normal position and water stops to fall.
 Also the nodeMCU is connected to internet so it sends the real time data to ThingSpeak IOT platform which you can see from any part of the world.
 So by watching the moisture content you can remain assured that everything is going fine.
+
+Designed Circuit:
+
+<p align="center">
+  <img src="" width="800"/>
+<\p>
