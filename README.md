@@ -14,8 +14,15 @@ After the threshold value is reached the motor comes to it's normal position and
 Also the nodeMCU is connected to internet so it sends the real time data to ThingSpeak IOT platform which you can see from any part of the world.
 So by watching the moisture content you can remain assured that everything is going fine.
 
-Designed Circuit:
+Designed System:
 
 <p align="center">
-  <img src="Circuit-Image -elaborate.pdf" width="800"/>
+  <img src="Circuit_Image (2).jpg" width="800"/>
 <\p>
+
+Screenshot from ThingSpeak:
+
+<p align="center">
+  <img src="Circuit_Image (2).jpg" width="800"/>
+<\p>
+
