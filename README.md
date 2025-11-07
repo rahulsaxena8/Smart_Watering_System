@@ -18,11 +18,11 @@ Designed System:
 
 <p align="center">
   <img src="Circuit_Image (2).jpg" width="800"/>
-<\p>
+
 
 Screenshot from ThingSpeak:
 
 <p align="center">
   <img src="Thingspeak_screenshot.jpg" width="800"/>
-<\p>
+
 
