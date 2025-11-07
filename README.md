@@ -17,5 +17,5 @@ So by watching the moisture content you can remain assured that everything is go
 Designed Circuit:
 
 <p align="center">
-  <img src="" width="800"/>
+  <img src="Circuit-Image -elaborate.pdf" width="800"/>
 <\p>
