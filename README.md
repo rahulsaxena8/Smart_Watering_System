@@ -17,7 +17,7 @@ So by watching the moisture content you can remain assured that everything is go
 Designed System:
 
 <p align="center">
-  <img src="Circuit-Image -elaborate.jpg" width="800"/>
+  <img src="Circuit_Image (2).jpg" width="800"/>
 
 
 Screenshot from ThingSpeak:
